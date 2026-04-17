@@ -21,7 +21,7 @@ This project creates an automated system where Jenkins jobs are triggered when l
 6. Maintain security and reliability.
 ---
 
-## 📝 Prerequisites.
+## 📝 Prerequisites..
 
 **AWS Resources**
   - ✅ AWS Account with appropriate permissions.
