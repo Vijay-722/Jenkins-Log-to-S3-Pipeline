@@ -530,7 +530,7 @@ sudo cat /var/log/log-monitor/monitor.log
 aws s3 ls s3://your-log-bucket-340752812821/access-logs/
 ```
 
-### 6.2 Update Pipeline with Email
+### 6.2 Update Pipeline with Email.
 
 1. Open Jenkins: `http://54.146.196.235:8080/`
 2. Login with your admin credentials
